@@ -1,0 +1,24 @@
+{
+    "ios": {
+        "debug": {
+            "codeSignIdentity": "iPhone Developer",
+            "provisioningProfile": "72180949-67c0-4b2d-95a5-36a6d8d81d11",
+            "developmentTeam": "RQ6CCQ3QDT",
+            "packageType": "development"
+        },
+        "release": {
+            "codeSignIdentity": "iPhone Distribution",
+            "provisioningProfile": "bf4be63b-5fc5-4140-9b67-8e2217ab70f1",
+            "developmentTeam": "RQ6CCQ3QDT",
+            "packageType": "app-store"
+        }
+    },
+    "android":{
+        "release": {
+            "keystore":"/Users/user_name/my-android-release.keystore",
+            "storePassword":"*****",
+            "alias":"my-android-release-alias",
+            "password":"*****"
+            }
+    }
+}
