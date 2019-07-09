@@ -31,11 +31,12 @@ Install following packages:
 
     `/Users/***/Library/android/bin/tools`
 
--   Once Android SDK tools are installed, it requies to accept all licenses for the first time. 
+-   Once Android SDK tools is installed, it requies to accept all licenses for the first time. 
 
 ```
 cd /Users/user_name/Library/Android/sdk
-/tools/bin/sdkmanager --licenses
+/tools/bin/
+sdkmanager --licenses
 ```
 
 #### Environment variables
